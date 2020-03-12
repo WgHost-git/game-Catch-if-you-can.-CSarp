@@ -1,2 +1,3 @@
-# game-atch-if-you-can.-
-C# 
+# Game catch if you can! C# 
+
+![Alt-текст](img/View.gif)
