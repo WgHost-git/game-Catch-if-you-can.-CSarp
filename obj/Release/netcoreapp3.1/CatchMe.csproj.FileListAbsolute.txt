@@ -1,0 +1,11 @@
+C:\Users\WgHost\source\repos\catchMe\catchMe\bin\Release\netcoreapp3.1\CatchMe.exe
+C:\Users\WgHost\source\repos\catchMe\catchMe\bin\Release\netcoreapp3.1\CatchMe.deps.json
+C:\Users\WgHost\source\repos\catchMe\catchMe\bin\Release\netcoreapp3.1\CatchMe.runtimeconfig.json
+C:\Users\WgHost\source\repos\catchMe\catchMe\bin\Release\netcoreapp3.1\CatchMe.runtimeconfig.dev.json
+C:\Users\WgHost\source\repos\catchMe\catchMe\bin\Release\netcoreapp3.1\CatchMe.dll
+C:\Users\WgHost\source\repos\catchMe\catchMe\bin\Release\netcoreapp3.1\CatchMe.pdb
+C:\Users\WgHost\source\repos\catchMe\catchMe\obj\Release\netcoreapp3.1\CatchMe.AssemblyInfoInputs.cache
+C:\Users\WgHost\source\repos\catchMe\catchMe\obj\Release\netcoreapp3.1\CatchMe.AssemblyInfo.cs
+C:\Users\WgHost\source\repos\catchMe\catchMe\obj\Release\netcoreapp3.1\CatchMe.dll
+C:\Users\WgHost\source\repos\catchMe\catchMe\obj\Release\netcoreapp3.1\CatchMe.pdb
+C:\Users\WgHost\source\repos\catchMe\catchMe\obj\Release\netcoreapp3.1\CatchMe.csprojAssemblyReference.cache
